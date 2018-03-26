@@ -16,8 +16,8 @@
 title: Your awesome title
 email: dat13jhe@student.lu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  FluteBot is a educational game that teaches programming to children with music! This game was developed by Johan Helmertz as part of his Masters Thesis in M.Sc in Computer Engineering at Educational Technology Group at Lund University.   
-  
+  FluteBot is a educational game that teaches programming to children with music! This game was developed by Johan Helmertz as part of his Masters Thesis at Educational Technology Group at Lund University.   
+
 baseurl: "/flutebot/" # the subpath of your site, e.g. /blog
 url: "http://BigBallsDontLie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
