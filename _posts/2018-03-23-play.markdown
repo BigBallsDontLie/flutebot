@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Play FluteBot!"
-date:   2018-03-23 14:10:41 +0100
-categories: jekyll update
----
-
-[here]: https://bigballsdontlie.github.io/flutebot/game
