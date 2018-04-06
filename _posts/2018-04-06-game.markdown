@@ -1,5 +1,7 @@
 ---
-layout: game
+layout: post
 title:  "Play FluteBot"
+date:   2018-04-06 14:10:41 +0100
+categories: jekyll update
 ---
 [here]({% game.html %})
