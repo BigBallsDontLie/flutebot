@@ -2,3 +2,4 @@
 layout: game
 title:  "Play FluteBot"
 ---
+[here]({% game.html %})
