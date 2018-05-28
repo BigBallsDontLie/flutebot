@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Home Sheep Home
 email: dat13jhe@student.lu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  FluteBot is a educational game that teaches programming to children with music! This game was developed by Johan Helmertz as part of his Masters Thesis at Educational Technology Group at Lund University.   
+  What are you doing? Help the sheeps! They want to eat delicous grass!
 
 baseurl: "/flutebot/" # the subpath of your site, e.g. /blog
 url: "http://BigBallsDontLie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jekyllrb
 
 # Build settings
 markdown: kramdown
